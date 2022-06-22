@@ -1,10 +1,10 @@
 ## RADIAN Protocol
 
-RADIAN Protocol positions itself as a decentralized social graph protocol that integrates different social components, including Social Profiles, Social Assets (NFTs/SBTs), Personal Relationships, Publications and DAO. RADIAN Protocol is built to be compatible with other existing protocols. The end goal of the RADIAN protocol is to become the infrastructure of the decentralized society and to empower web3 users with blockchain technology.
+RADIAN Protocol is a decentralized social graph protocol that integrates different social components, including Social Profiles, Social Assets (NFTs/SBTs), Personal Relationships, Publications and DAOs. RADIAN Protocol is built to be compatible with other existing protocols, such as Lens Protocol. RADIAN Protocol enables Web3 Creators to mint NFT with UGC, and allows Web3 users to establish NFT DAO with any NFTs.
 
 ## RADIAN Publication Center
 
-Publication Center is the facility for publishing content, such as Articles, Photos, Music, Movie, Novel, News, Thesis, and Video, in the form of Creator NFT, and ownership of the content in the form of Copy NFT.
+Publication Center offer web3 creators with one-stop copyright NFT services. It is the facility for publishing content, such as Articles, Photos, Music, Movie, Novel, News, Thesis, and Video, in the form of Creator NFT, and ownership of the content in the form of Copy NFT.
 
 ## ROAD MAP
 
